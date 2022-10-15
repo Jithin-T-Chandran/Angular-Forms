@@ -1,6 +1,6 @@
 /*
 
-iimport { Component } from '@angular/core';
+import { Component } from '@angular/core';
 import { User } from './user';
 import { EnrollmentService } from './enrollment.service';
 
